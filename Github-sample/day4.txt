@@ -1,0 +1,1 @@
+learnt about testing lifecycle, bug lifecycle, and github
